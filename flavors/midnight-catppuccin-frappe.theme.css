@@ -28,11 +28,11 @@
 	/* accent colors */
 	--accent-1: #85c1dc; /* links */
 	--accent-2: #85c1dc; /* general unread/mention elements */
-	--accent-3: hsl(199, 55%, 69%); /* accent buttons */
-	--accent-4: hsl(199, 45%, 59%); /* accent buttons when hovered */
-	--accent-5: hsl(199, 35%, 49%); /* accent buttons when clicked */
-	--mention: hsla(199, 55%, 69%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(199, 55%, 69%, 0.05); /* mentions & mention messages when hovered */
+	--accent-3: hsl(20, 79%, 70%); /* accent buttons */
+	--accent-4: hsl(20, 69%, 60%); /* accent buttons when hovered */
+	--accent-5: hsl(20, 59%, 50%); /* accent buttons when clicked */
+	--mention: hsla(20, 79%, 70%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(20, 79%, 70%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: var(--bg-4); /* text on colored elements */
