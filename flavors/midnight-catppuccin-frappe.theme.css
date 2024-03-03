@@ -26,8 +26,8 @@
 	--streaming-indicator: #ca9ee6; /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: #85c1dc; /* links */
-	--accent-2: #85c1dc; /* general unread/mention elements */
+	--accent-1: #ef9f76; /* links */
+	--accent-2: #ef9f76; /* general unread/mention elements */
 	--accent-3: hsl(20, 79%, 70%); /* accent buttons */
 	--accent-4: hsl(20, 69%, 60%); /* accent buttons when hovered */
 	--accent-5: hsl(20, 59%, 50%); /* accent buttons when clicked */
