@@ -26,7 +26,7 @@
 	--streaming-indicator: #ca9ee6; /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: #ef9f76; /* links */
+	--accent-1: #8caaee; /* links */
 	--accent-2: #ef9f76; /* general unread/mention elements */
 	--accent-3: hsl(20, 79%, 70%); /* accent buttons */
 	--accent-4: hsl(20, 69%, 60%); /* accent buttons when hovered */
@@ -40,7 +40,7 @@
 	--text-2: hsl(227, 70%, 87%); /* headings and important text */
 	--text-3: hsl(228, 29%, 73%); /* normal text */
 	--text-4: hsl(227, 17%, 58%); /* icon buttons and channels */
-	--text-5: hsl(227, 70%, 95%); /* muted channels/chats and timestamps */
+	--text-5: hsl(228, 13%, 44%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(227, 15%, 37%); /* dark buttons when clicked */
@@ -52,7 +52,7 @@
 	--message-hover: hsla(0, 0%, 0%, 0.1); /* messages when hovered */
 
 	/* amount of spacing and padding */
-	--spacing: 12px;
+	--spacing: 5px;
 
 	/* animations */
 	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
