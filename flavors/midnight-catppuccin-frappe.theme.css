@@ -31,7 +31,7 @@
 	--accent-3: hsl(20, 79%, 70%); /* accent buttons */
 	--accent-4: hsl(20, 69%, 60%); /* accent buttons when hovered */
 	--accent-5: hsl(20, 59%, 50%); /* accent buttons when clicked */
-	--mention: hsla(20, 79%, 70%, 1.0); /* mentions & mention messages */
+	--mention: hsla(20, 79%, 70%, 0.1); /* mentions & mention messages */
 	--mention-hover: hsla(20, 79%, 70%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
@@ -40,7 +40,7 @@
 	--text-2: hsl(227, 70%, 87%); /* headings and important text */
 	--text-3: hsl(228, 29%, 73%); /* normal text */
 	--text-4: hsl(227, 17%, 58%); /* icon buttons and channels */
-	--text-5: hsl(228, 13%, 44%); /* muted channels/chats and timestamps */
+	--text-5: hsl(227, 70%, 95%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(227, 15%, 37%); /* dark buttons when clicked */
